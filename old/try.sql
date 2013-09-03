@@ -1,0 +1,1 @@
+alter   database   datafile   'H:\app\FarmerJ\product\11.2.0\dbhome_1\database\dangxiao.dat'   offline   drop;

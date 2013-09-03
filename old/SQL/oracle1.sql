@@ -1,0 +1,64 @@
+insert into department (dept_id, dept_name) values(0, '无');
+insert into department (dept_id, dept_name) values(1, '文学院');
+insert into department (dept_id, dept_name) values(2, '社会发展学院');
+insert into department (dept_id, dept_name) values(3, '马克思主义学院');
+insert into department (dept_id, dept_name) values(4, '法学院');
+insert into department (dept_id, dept_name) values(5, '教育科学学院');
+insert into department (dept_id, dept_name) values(6, '新闻与传媒学院');
+insert into department (dept_id, dept_name) values(7, '外国语学院');
+insert into department (dept_id, dept_name) values(8, '数学科学学院');
+insert into department (dept_id, dept_name) values(9, '物理科学与技术学院');
+insert into department (dept_id, dept_name) values(10, '化学化工学院');
+insert into department (dept_id, dept_name) values(11, '体育学院');
+insert into department (dept_id, dept_name) values(12, '机械工程学院');
+insert into department (dept_id, dept_name) values(13, '信息工程学院');
+insert into department (dept_id, dept_name) values(14, '建筑科学与工程学院');
+insert into department (dept_id, dept_name) values(15, '水利科学与工程学院');
+insert into department (dept_id, dept_name) values(16, '能源与动力工程学院');
+insert into department (dept_id, dept_name) values(17, '环境科学与工程学院');
+insert into department (dept_id, dept_name) values(18, '农学院');
+insert into department (dept_id, dept_name) values(19, '园艺与植物保护学院');
+insert into department (dept_id, dept_name) values(20, '动物科学与技术学院');
+insert into department (dept_id, dept_name) values(21, '兽医学院');
+insert into department (dept_id, dept_name) values(22, '生物科学与技术学院');
+insert into department (dept_id, dept_name) values(23, '医学院');
+insert into department (dept_id, dept_name) values(24, '商学院');
+insert into department (dept_id, dept_name) values(25, '旅游烹饪学院');
+insert into department (dept_id, dept_name) values(26, '艺术学院');
+insert into department (dept_id, dept_name) values(27, '广陵学院');
+
+
+
+--insert into student values('000', '000', '000', 1, '冯杰', '1991', '1', '13', '软件工程1班', 'fengjie1314126@126.com', -1, -1, -1, -1, 1, -1);
+--insert into student values('001', '001', '001', 2, '冯杰', '1991', '1', '13', '软件工程1班', 'fengjie1314126@126.com', -1, -1, -1, -1, 1, -1);
+--insert into student values('002', '002', '002', 3, '冯杰', '1991', '1', '13', '软件工程1班', 'fengjie1314126@126.com', -1, -1, -1, -1, 1, -1);
+--insert into student values('003', '003', '003', 4, '冯杰', '1991', '1', '13', '软件工程1班', 'fengjie1314126@126.com', -1, -1, -1, -1, 1, -1);
+
+
+insert into test_time (dept_id) values(1);
+insert into test_time (dept_id) values(2);
+insert into test_time (dept_id) values(3);
+insert into test_time (dept_id) values(4);
+insert into test_time (dept_id) values(5);
+insert into test_time (dept_id) values(6);
+insert into test_time (dept_id) values(7);
+insert into test_time (dept_id) values(8);
+insert into test_time (dept_id) values(9);
+insert into test_time (dept_id) values(10);
+insert into test_time (dept_id) values(11);
+insert into test_time (dept_id) values(12);
+insert into test_time (dept_id) values(13);
+insert into test_time (dept_id) values(14);
+insert into test_time (dept_id) values(15);
+insert into test_time (dept_id) values(16);
+insert into test_time (dept_id) values(17);
+insert into test_time (dept_id) values(18);
+insert into test_time (dept_id) values(19);
+insert into test_time (dept_id) values(20);
+insert into test_time (dept_id) values(21);
+insert into test_time (dept_id) values(22);
+insert into test_time (dept_id) values(23);
+insert into test_time (dept_id) values(24);
+insert into test_time (dept_id) values(25);
+insert into test_time (dept_id) values(26);
+insert into test_time (dept_id) values(27);

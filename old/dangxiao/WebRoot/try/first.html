@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+<script language="JavaScript">
+		function loadform(){
+			alert("开始自动装载!");
+		}
+		function unloadform(){
+			alert("开始卸载!");
+		}
+		function change(){
+			document.write("Event has been activated!!");
+		}
+	</script>
+</head>
+
+<body> <!-- onload="loadform()" onunload="unloadform()"> -->
+	<form>
+		<input type = "button" name = "myname" value = "提交" onclick="javascript:alert('你成功了')"></input>
+		<input type = "text" name = "test0" value = "ff" onchange = "alert(haha)"></input>
+		<input type = "text" name = "test1" value = "ff" onfocus = "alert(haha)"></input>
+	</form>>
+	<select name = "book">
+		<option>西游记
+		<option>红楼梦
+		<option value="sanguo">三国演义
+		<option selected="selected">水浒传
+	</select>
+</body>
+</html>

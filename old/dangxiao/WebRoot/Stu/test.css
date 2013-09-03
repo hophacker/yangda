@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#09F;
+	}
+#bodyleft{
+	width:900px;
+	position:absolute;
+    left:50px;
+	}
+#bodyright{
+    position:absolute;
+	width:440px;
+	left:880px;
+	}
+#bodyright input{
+	margin:0.5px;
+	color:red;
+}

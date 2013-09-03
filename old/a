@@ -1,0 +1,386 @@
+libdbd-mysql-perl - Perl5 database interface to the MySQL database
+libdbd-sqlite3-perl - Perl DBI driver with a self-contained RDBMS
+libdbi-perl - Perl Database Interface (DBI)
+libmysqlclient-dev - MySQL database development files
+libmysqlclient18 - MySQL database client library
+libmysqlcppconn-dev - MySQL Connector for C++ (development files)
+libmysqlcppconn5 - MySQL Connector for C++ (library)
+libmysqld-dev - MySQL embedded database development files
+libmysqld-pic - MySQL database development files
+libqt4-sql-mysql - Qt 4 MySQL database driver
+librdf0 - Redland Resource Description Framework (RDF) library
+libreoffice-base - office productivity suite -- database
+libsasl2-modules-sql - Cyrus SASL - pluggable authentication modules (SQL)
+mysql-client - MySQL database client (metapackage depending on the latest version)
+mysql-client-5.5 - MySQL database client binaries
+mysql-client-core-5.5 - MySQL database core client binaries
+mysql-common - MySQL database common files, e.g. /etc/mysql/my.cnf
+mysql-server - MySQL database server (metapackage depending on the latest version)
+mysql-server-5.5 - MySQL database server binaries and system database setup
+mysql-server-core-5.5 - MySQL database server binaries
+nagios-plugins-standard - Plugins for nagios compatible monitoring systems
+nova-api - OpenStack Compute - API frontend
+nova-cert - OpenStack Compute - certificate management
+nova-common - OpenStack Compute - common files
+nova-compute - OpenStack Compute - compute node
+nova-compute-kvm - OpenStack Compute - compute node (KVM)
+nova-compute-lxc - OpenStack Compute - compute node (LXC)
+nova-doc - OpenStack Compute - documentation
+nova-network - OpenStack Compute - Network manager
+nova-objectstore - OpenStack Compute - object store
+nova-scheduler - OpenStack Compute - virtual machine scheduler
+nova-vncproxy - OpenStack Compute - VNC proxy
+nova-volume - OpenStack Compute - storage
+php5-mysql - MySQL module for php5
+php5-sqlite - SQLite module for php5
+postfix-mysql - MySQL map support for Postfix
+python-logilab-common - useful miscellaneous modules used by Logilab projects
+python-migrate - Database schema migration for SQLAlchemy
+python-mysqldb - Python interface to MySQL
+python-mysqldb-dbg - Python interface to MySQL (debug extension)
+python-nova - OpenStack Compute Python libraries
+rsyslog - reliable system and kernel logging daemon
+mythtv-database - A personal video recorder application (database)
+ampache - web-based audio file management system
+ampache-themes - Themes for Ampache
+aolserver4-nsmysql - AOLserver 4 module: module for accessing MySQL databases
+asterisk-mysql - MySQL database protocol support for the Asterisk PBX
+audiolink - makes managing and searching for music easier
+auth2db - Powerful and eye-candy IDS logger, log viewer and alert generator
+auth2db-common - Common configuration files for Auth2db backend and web frontend
+auth2db-filters - Auth2db defaults filters pack
+auth2db-frontend - Web frontend view for auth2DB log engine
+automysqlbackup - daily, weekly and monthly backup for your MySQL database
+autopostgresqlbackup - Automated tool to make periodic backups of PostgreSQL databases
+backup-manager - command-line backup tool
+backupninja - lightweight, extensible meta-backup system
+bibus - bibliographic database
+cacti - Frontend to rrdtool for monitoring systems and services
+cedar-backup2 - local and remote backups to CD or DVD media
+cedar-backup2-doc - local and remote backups to CD or DVD media (documentation)
+cl-sql-mysql - CLSQL database backend, MySQL
+cl-sql-tests - Testing suite for CLSQL
+collectd-core - statistics collection and monitoring daemon (core system)
+courier-authlib-mysql - MySQL support for the Courier authentication library
+courier-webadmin - Courier mail server - web-based administration frontend
+cqrlog - Advanced logging program for hamradio operators
+cvm-mysql - Credential Validation Modules (MySQL)
+dbf2mysql - xBase <--> MySQL
+dish - diligence/distributed shell for parallel sysadmin
+dovecot-mysql - MySQL support for Dovecot
+dpm-copy-server-mysql - DPM copy server with MySQL database backend
+dpm-name-server-mysql - DPM nameserver server with MySQL database backend
+dpm-server-mysql - Disk Pool Manager (DPM) server with MySQL database backend
+dpm-srm-server-mysql - DPM SRM server with MySQL database backend
+dpsyco-mysql - Automate administration of access to mysql
+drizzle - Server binaries for Drizzle Database
+drizzle-client - Client binaries for Drizzle Database
+drizzle-dbg - Debugging symbols for Drizzle
+drizzle-dev - Development files for Drizzle development
+drizzle-doc - API Documentation for Drizzle internals
+drizzle-plugin-auth-file - File-based authentication for Drizzle
+drizzle-plugin-auth-http - HTTP authentication for Drizzle
+drizzle-plugin-auth-ldap - LDAP authentication for Drizzle
+drizzle-plugin-auth-pam - PAM authentication for Drizzle
+drizzle-plugin-dev - Development files for Drizzle plugin development
+drizzle-plugin-filtered-replicator - Filtered Replicator for Drizzle
+drizzle-plugin-gearman-udf - Gearman User Defined Functions for Drizzle
+drizzle-plugin-haildb - HailDB Storage Engine for Drizzle
+drizzle-plugin-logging-gearman - Gearman Logging for Drizzle
+drizzle-plugin-logging-query - Query Logging for Drizzle
+drizzle-plugin-mysql-protocol - MySQL Protocol for Drizzle
+drizzle-plugin-mysql-unix-socket-protocol - MySQL Unix Domain Socket Protocol for Drizzle
+drizzle-plugin-pbms - PrimeBase Blob Streaming for Drizzle
+drizzle-plugin-performance-dictionary - Performance Dictionary for Drizzle
+drizzle-plugin-rabbitmq - RabbitMQ Transaction Log for Drizzle
+drizzle-plugin-simple-user-policy - Simple User Policy for Drizzle
+drizzle-plugin-slave - Replication Slave Plugin for Drizzle
+dspam-webfrontend - Webfrontend for DSPAM anti-spam filter
+dsyslog-module-mysql - advanced modular syslog daemon - MySQL support
+eikazo - graphical frontend for SANE designed for mass-scanning
+emma - extendable MySQL managing assistant
+ferret - CASE tool for data model editing
+fp-units-db - Free Pascal - database libraries units metapackage
+fp-units-db-2.4.4 - Free Pascal - database libraries units
+freeradius-mysql - MySQL module for FreeRADIUS server
+fsgateway - FUSE module to browse database's metadata, sugar datastores and xml files
+gambas2-gb-db-mysql - The MySQL driver for the Gambas database component
+gbirthday - birthday reminder applet
+gmysqlcc - graphical client for managing MySQL databases
+gnash-ext-mysql - GNU Shockwave Flash (SWF) player - MySQL extension
+gnokii-smsd-mysql - SMSD plugin for MySQL storage backend
+gsql-mysql-engine - MySQL engine for GSQL
+handlersocket-doc - HandlerSocket command line client
+handlersocket-mysql-5.5 - HandlerSocket plugin for MySQL 5.5
+haskell-hsql-mysql-doc - transitional dummy package
+htcheck - Utility for checking web site for dead/external links
+htcheck-php - Simple php interface to database generated by ht://Check
+hydra - Very fast network logon cracker
+hydra-gtk - Very fast network logon cracker - GTK+ based GUI
+ilohamail - Light weight yet full featured multilingual web-based IMAP/POP3 client
+jffnms - web-based Network Management System (NMS) for IP networks
+kannel - WAP and SMS gateway
+kexi-mysql-driver - MySQL support for kexi
+letodms - document management system based on PHP and MySQL
+lfc-server-mysql - LCG File Catalog (LFC) server with MySQL database backend
+libapache2-mod-log-sql - Use SQL to store/write your apache queries logs - Base
+libapache2-mod-log-sql-dbi - Use SQL to store/write your apache queries logs - DBI interface
+libapache2-mod-log-sql-mysql - Use SQL to store/write your apache queries logs - MySQL interface
+libapq3.2.0 - Pluggable Ada 95 Binding to various database systems (library)
+libapq3.2.0-dbg - Pluggable Ada 95 Binding to various database systems (debug)
+libapq3.2.0-dev - Pluggable Ada 95 Binding to various database systems (development)
+libaprutil1-dbd-mysql - Apache Portable Runtime Utility Library - MySQL Driver
+libcgi-application-plugin-ratelimit-perl - unknown
+libcgi-session-expiresessions-perl - automatic deletion of expired CGI sessions
+libcherokee-mod-mysql - Cherokee web server - MySQL user validator plugin
+libclass-dbi-loader-perl - Perl module for dynamic definition of Class::DBI sub classes
+libclass-dbi-mysql-perl - extensions to Class::DBI for MySQL
+libclass-dbi-perl - convenient abstraction layer to a database
+libcrypt-mysql-perl - Perl module to emulate the MySQL PASSWORD() function
+libdataobjects-mysql-ruby - Transitional package for ruby-dataobjects-mysql
+libdataobjects-mysql-ruby1.8 - Transitional package for ruby-dataobjects-mysql
+libdataobjects-mysql-ruby1.9.1 - Transitional package for ruby-dataobjects-mysql
+libdatetime-format-dbi-perl - abstraction layer for DateTime over some database vendors
+libdatetime-format-mysql-perl - Parse and format MySQL dates and times
+libdbd-mock-perl - Mock database driver for testing
+libdbd-mysql-ruby - Transitional package for ruby-dbd-mysql
+libdbd-mysql-ruby1.8 - Transitional package for ruby-dbd-mysql
+libdbd-mysql-ruby1.9.1 - Transitional package for ruby-dbd-mysql
+libdbd-sqlite2-perl - Perl DBI driver with a self-contained RDBMS (SQLite2 version)
+libdbix-class-perl - extensible and flexible object <-> relational mapper
+libdbix-class-schema-loader-perl - module to automate definition of a DBIx::Class::Schema
+libdbix-datasource-perl - Database-independent create and drop functions
+libdbix-dbschema-perl - Database-independent schema objects
+libdbix-easy-perl - Easy to Use DBI Interface
+libdbix-fulltextsearch-perl - Indexing documents with MySQL as storage
+libdrizzle-dbg - library for the Drizzle and MySQL protocols, debug symbols
+libdrizzle-dev - library for the Drizzle and MySQL protocols, development files
+libdrizzle-doc - library for the Drizzle and MySQL protocols, API documentation
+libdrizzle0 - library for the Drizzle and MySQL protocols
+libdrizzle1 - library for the Drizzle and MySQL protocols
+libdrizzledmessage-dev - Devel library containing serialized messages used with Drizzle
+libdrizzledmessage0 - Library containing serialized messages used with Drizzle
+libdspam7-drv-mysql - MySQL backend for DSPAM anti-spam filter
+libeigenbase-farrago-java - Java framework for constructing RDBMS services
+libgda-4.0-mysql - MySQL provider for libgda database abstraction library
+libgda-5.0-mysql - MySQL provider for libgda database abstraction library
+libghc-hdbc-dev - Haskell Database Connectivity, GHC package
+libghc-hdbc-doc - Haskell Database Connectivity, Documentation
+libghc-hdbc-odbc-dev - unixODBC HDBC (Haskell Database Connectivity) Driver for GHC
+libghc-hdbc-odbc-doc - unixODBC HDBC (Haskell Database Connectivity) Documentation
+libghc-hdbc-odbc-prof - unixODBC Haskell Database Connectivity Driver; profiling libraries
+libghc-hdbc-sqlite3-dev - Sqlite v3 HDBC (Haskell Database Connectivity) Driver for GHC
+libghc-hdbc-sqlite3-doc - Sqlite v3 HDBC (Haskell Database Connectivity) Documentation
+libghc-hdbc-sqlite3-prof - Sqlite v3 HDBC Driver for GHC; profiling libraries
+libghc-highlighting-kate-dev - syntax highlighting library based on Kate syntax descriptions
+libghc-highlighting-kate-doc - library documentation for highlighting-kate
+libghc-highlighting-kate-prof - highlighting-kate library with profiling enabled
+libghc-hsql-dev - Multi-Database Interface System library for GHC
+libghc-hsql-doc - API documentation of the HSQL library for Haskell
+libghc-hsql-mysql-dev - MySQL driver of the HSQL library for GHC
+libghc-hsql-mysql-doc - API documentation of the hsql-mysql library for Haskell
+libghc-hsql-mysql-prof - MySQL driver of the HSQL library for GHC; profiling libraries
+libghc-hsql-odbc-dev - UnixODBC driver of the HSQL library for GHC
+libghc-hsql-odbc-doc - API documentation of the hsql-odbc library for Haskell
+libghc-hsql-odbc-prof - UnixODBC driver of the HSQL profiling library for GHC
+libghc-hsql-prof - Multi-Database Interface System profiling library for GHC
+libghc-hsql-sqlite3-dev - SQLite driver of the HSQL library for GHC
+libghc-hsql-sqlite3-doc - API documentation of the hsql-sqlite3 library for Haskell
+libghc-hsql-sqlite3-prof - SQLite driver of the HSQL profiling library for GHC
+libghc6-hsql-mysql-dev - transitional dummy package
+libghc6-hsql-mysql-doc - transitional dummy package
+libghc6-hsql-mysql-prof - transitional dummy package
+libglpk0 - linear programming kit with integer (MIP) support
+libhsclient-dev - HandlerSocket client library
+libinnodb-dbg - Embedded InnoDB Library (debug files)
+libinnodb-dev - Embedded InnoDB Library (dev files)
+libinnodb3 - Embedded InnoDB Library
+libkaya-mysql-dev - MySQL binding for kaya
+libkiokudb-backend-dbi-perl - DBI backend for KiokuDB
+liblua5.1-sql-mysql-2 - luasql library for the Lua language version 5.1
+liblua5.1-sql-mysql-dev - luasql development files for the Lua language version 5.1
+libmyodbc - the MySQL ODBC driver
+libmysql++-dev - MySQL C++ library bindings (development)
+libmysql++-doc - MySQL C++ library bindings (documentation and examples)
+libmysql++3 - MySQL C++ library bindings (runtime)
+libmysql-cil-dev - MySQL database connector for CLI
+libmysql-diff-perl - module for comparing the table structure of two MySQL databases
+libmysql-java - Java database (JDBC) driver for MySQL
+libmysql-ocaml - OCaml bindings for MySql
+libmysql-ocaml-dev - OCaml bindings for MySql
+libmysql-ruby - Transitional package for ruby-mysql
+libmysql-ruby1.8 - Transitional package for ruby-mysql
+libmysql-ruby1.9.1 - Transitional package for ruby-mysql
+libmysql6.4-cil - MySQL database connector for CLI
+libnet-handlersocket-perl - HandlerSocket perl client library.
+libnss-mysql-bg - NSS module for using MySQL as a naming service
+libpam-mysql - PAM module allowing authentication from a MySQL server
+libphp-adodb - ADOdb database abstraction layer for PHP
+libpoco-dev - Development files for POCO - The C++ Portable Components
+libpoco-doc - Documentation for POCO - The C++ Portable Components
+libpocomysql9 - The C++ Portable Components MySQL library
+libpocomysql9-dbg - The C++ Portable Components MySQL library, debug version
+libqt3-mt-mysql - MySQL database driver for Qt3 (Threaded)
+librdf-storage-mysql - RDF library, MySQL backend
+librdf-trine-perl - RDF Framework for Perl
+libreoffice-mysql-connector - MySQL Connector extension for LibreOffice
+libsamizdat-ruby1.8 - Samizdat module for Ruby 1.8
+libsemweb1.0-cil - Semantic Web/RDF library
+libsqlite3-mod-impexp - SQLite3 extension module for SQL script, XML, JSON and CSV import/export
+libtango7 - TANGO distributed control system - shared library
+libtango7-dbg - TANGO distributed control system - debug library
+libtango7-dev - TANGO distributed control system - development library
+libtango7-doc - TANGO distributed control system - documentation
+libterralib - C++ library for Geographical Information Systems
+libterralib-dev - C++ library for Geographical Information Systems -- development package
+libterralib-doc - C++ library for Geographical Information Systems -- documentation package
+libtext-tabulardisplay-perl - Perl module to display text as a formatted table
+libtime-piece-mysql-perl - module adding MySQL-specific methods to Time::Piece
+libtntdb-dev - Development headers for tntdb
+libtntdb2 - C++ class library for easy database access
+libuser-simple-perl - Simple user sessions management
+lighttpd-mod-mysql-vhost - MySQL-based virtual host configuration for lighttpd
+maatkit - Command-line utilities for MySQL
+mantis - web-based bug tracking system
+monodevelop-database - Database plugin for MonoDevelop
+monodoc-mysql-manual - compiled XML documentation for the MySql.Data library
+monodoc-semweb-manual - compiled XML documentation for SemWeb
+muddleftpd - A flexible and efficient FTP daemon
+mydumper - High-performance MySQL backup tool
+mylvmbackup - quickly creating backups of MySQL server's data files
+mysql-mmm-agent - Multi-Master Replication Manager for MySQL - agent daemon
+mysql-mmm-common - Multi-Master Replication Manager for MySQL - common files
+mysql-mmm-monitor - Multi-Master Replication Manager for MySQL - monitoring daemon
+mysql-mmm-tools - Multi-Master Replication Manager for MySQL - tools
+mysql-navigator - GUI client program for MySQL database server
+mysql-proxy - high availability, load balancing and query modification for mysql
+mysql-source-5.5 - MySQL source
+mysql-testsuite - MySQL testsuite
+mysql-testsuite-5.5 - MySQL testsuite
+mysql-workbench - MySQL Workbench - a visual database modeling, administration and queuing tool
+mysql-workbench-data - MySQL Workbench -- architecture independent data
+mysqltcl - interface to the MySQL database for the Tcl language
+mysqltuner - high-performance MySQL tuning script
+mysqmail - real-time logging system in MySQL
+mysqmail-courier-logger - real-time logging system in MySQL - Courier traffic-logger
+mysqmail-dovecot-logger - real-time logging system in MySQL - Dovecot traffic-logger
+mysqmail-postfix-logger - real-time logging system in MySQL - Postfix traffic-logger
+mysqmail-pure-ftpd-logger - real-time logging system in MySQL - Pure-FTPd traffic-logger
+mythexport - Export MythTV recording to portable media players
+mytop - top like query monitor for MySQL
+nanourl - Lightweight analog of TinyURL
+nanoweb - HTTP server written in PHP
+ndoutils-nagios3-mysql - This provides the NDOUtils for Nagios with MySQL support
+netams - network traffic accounting and monitoring daemon
+netams-dbg - debug symbols for NeTAMS
+netams-web - web interface for NeTAMS
+note - small program managing notes from commandline
+nova-ajax-console-proxy - OpenStack Compute - AJAX console proxy - transitional package
+nova-api-ec2 - OpenStack Compute - EC2 API frontend
+nova-compute-qemu - OpenStack Compute - compute node (QEmu)
+nova-compute-uml - OpenStack Compute - compute node (UserModeLinux)
+nova-compute-xcp - OpenStack Compute - compute node (XCP)
+nova-compute-xen - OpenStack Compute - compute node (Xen)
+nova-console - OpenStack Compute - Console
+nova-consoleauth - OpenStack Compute - Console Authenticator
+nova-xcp-network - OpenStack Compute network plugin for the Xen Cloud Platform
+nova-xcp-plugins - OpenStack Compute plugin for the Xen Cloud Platform
+nuauth-extra - The authenticating firewall [extra modules]
+nuauth-log-mysql - The authenticating firewall [MySQL log module]
+obm-storage - Install database of Open Business Management
+opendnssec-dbg-mysql - Debug symbols for OpenDNSSEC (Enforcer with MySQL support)
+opendnssec-enforcer - tool to prepare DNSSEC keys (common package)
+opendnssec-enforcer-mysql - tool to prepare DNSSEC keys (mysql backend)
+openoffice.org-mysql-connector - MySQL Connector extension for LibreOffice
+papercut - simple and extensible NNTP server
+parser3-mysql - MySQL driver for Parser 3
+pdns-backend-mysql - generic MySQL backend for PowerDNS
+pennmush-mysql - text-based multi-user virtual world server with MySQL support
+percona-toolkit - Command-line tools for MySQL and system tasks
+perdition - POP3 and IMAP4 Proxy server
+perdition-mysql - Library to allow perdition to access MySQL based popmaps
+pgloader - loads flat data files into PostgreSQL
+php-db - PHP PEAR Database Abstraction Layer
+php-mdb2-driver-mysql - PHP PEAR module to provide a MySQL driver for MDB2
+php5-adodb - Extension optimising the ADOdb database abstraction library
+php5-mysqlnd - MySQL module for php5 (Native Driver)
+phpmyadmin - MySQL web administration tool
+pike7.8-core - Powerful interpreted programming language
+pike7.8-mysql - MySQL module for Pike
+piwigo - photo gallery software for the web
+piwigo-mysql - metapackage providing MySQL dependencies for piwigo
+pnopaste - Pastebin with syntax highlighting
+pnopaste-cli - Pastebin with syntax highlighting (cli tool)
+postfix-cluebringer-mysql - metapackage for mysql support in postfix-cluebringer
+postfix-gld - greylisting daemon for postfix, written in C, uses MySQL
+proftpd-mod-mysql - Versatile, virtual-hosting FTP daemon - MySQL module
+pure-ftpd-mysql - Secure and efficient FTP server with MySQL user authentication
+pysieved - managesieve server
+python-drizzle - Python binding to libdrizzle
+python-drizzle-dbg - Python binding to libdrizzle - debug symbols
+python-mysql.connector - pure Python implementation of MySQL Client/Server protocol
+python-pysqlite2 - Python interface to SQLite 3
+python-storm - object-relational mapper (ORM) for Python
+python-storm-dbg - object-relational mapper (ORM) for Python - debugging files
+python3-drizzle - Python3 binding to libdrizzle
+python3-drizzle-dbg - Python3 binding to libdrizzle - debug symbols
+qtstalker - commodity and stock market charting and technical analysis
+r-cran-dbi - GNU R package providing a generic database interface
+r-cran-rmysql - GNU R package providing a DBI-compliant interface to MySQL
+r-cran-rodbc - GNU R package for ODBC database access
+ratbox-services-mysql - IRC services for use with ircd-ratbox with the mysql backend
+redmine - flexible project management web application
+redmine-mysql - metapackage providing MySQL dependencies for Redmine
+request-tracker3.8 - extensible trouble-ticket tracking system
+request-tracker4 - extensible trouble-ticket tracking system
+rhythmbox-ampache - play audio streams from an Ampache server
+roundcube-mysql - metapackage providing MySQL dependencies for RoundCube
+rsyslog-mysql - MySQL output plugin for rsyslog
+rt3.8-db-mysql - MySQL database backend for request-tracker3.8
+rt3.8-db-sqlite - SQLite database backend for request-tracker3.8
+rt4-db-mysql - MySQL database backend for request-tracker4
+rt4-db-sqlite - SQLite database backend for request-tracker4
+ruby-amazon-ec2 - Ruby library for accessing Amazon EC2
+ruby-dataobjects - Unified interface to various databases for Ruby
+ruby-dataobjects-mysql - MySQL adapter for ruby-dataobjects
+ruby-dbd-mysql - Ruby/DBI MySQL driver
+ruby-mysql - MySQL module for Ruby
+ruby-sequel - Simple, flexible, and powerful SQL database access toolkit for Ruby
+sagan - Real-time System & Event Log Monitoring System
+sagan-rules - Real-time System & Event Log Monitoring System [rules]
+sbnc-dbg - IRC proxy for multiple users (debugging symbols)
+sbnc-mysql - IRC proxy for multiple users (MySQL extension)
+scilab-scimysql - A Scilab interface to MySQL
+ser-mysql-module - MySQL database connectivity module for SER
+serendipity - Weblog manager with extensive theming and plugin support
+snort - flexible Network Intrusion Detection System
+snort-mysql - flexible Network Intrusion Detection System [MySQL]
+solr-common - enterprise search server based on Lucene - common files
+sphinxsearch - Fast standalone full-text SQL search engine
+spl-core - SPL Programming Language
+spl-mysql - SPL Programming Language -- MySQL adapter
+sqlgrey - Postfix Greylisting Policy Server
+sqlline - JDBC command-line utility for issuing SQL
+sympa - Modern mailing list manager
+sysbench - Cross-platform and multi-threaded benchmark tool
+syslog-ng-mod-sql - Next generation system logging daemon (SQL plugin)
+tango-db - TANGO distributed control system - database server
+tedia2sql - Converts a Dia diagram to various SQL dialects
+tntdb-mysql2 - MySQL backend for tntdb database access library
+tora - A graphical toolkit for database developers and administrators
+tora-dbg - A graphical toolkit for database developers and administrators - debugging symbols
+torrentflux - web based, feature-rich BitTorrent download manager
+tsung - distributed multi-protocol load testing tool
+ubuntu-orchestra-modules-mysql - Modules mainly used by orchestra-management-server
+ukolovnik - Simple todo manager using PHP and MySQL
+ulogd - The Netfilter Userspace Logging Daemon
+ulogd-mysql - MySQL extension to ulogd
+vbackup - A modular backup utility
+viewvc-query - utility to query CVS and Subversion commit database
+voms-mysql-plugin - VOMS server plugin for MySQL
+webgui - Content management platform to maintain complex web sites
+wzdftpd-back-mysql - modular, small and efficient ftp server - MySQL backend
+yate-mysql - MySQL support module for yate
+zabbix-proxy-mysql - network monitoring solution - proxy (using MySQL)
+zabbix-server-mysql - network monitoring solution - server (using MySQL)
+zoph - Web based digital image presentation and management system

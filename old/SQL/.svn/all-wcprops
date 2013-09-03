@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/dxks/!svn/ver/2/yangda/old/SQL
+END
+try.sql
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/dxks/!svn/ver/2/yangda/old/SQL/try.sql
+END
+createSpaceAndUser.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/dxks/!svn/ver/2/yangda/old/SQL/createSpaceAndUser.sql
+END
+delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/dxks/!svn/ver/2/yangda/old/SQL/delete.sql
+END
+setSchool.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/dxks/!svn/ver/2/yangda/old/SQL/setSchool.sql
+END
+function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/dxks/!svn/ver/2/yangda/old/SQL/function.sql
+END
+oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/dxks/!svn/ver/2/yangda/old/SQL/oracle.sql
+END
+temp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/dxks/!svn/ver/2/yangda/old/SQL/temp.sql
+END
+oracle1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/dxks/!svn/ver/2/yangda/old/SQL/oracle1.sql
+END
+procedure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/dxks/!svn/ver/2/yangda/old/SQL/procedure.sql
+END

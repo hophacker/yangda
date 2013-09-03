@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	font-size:18px;
+	color: #194F95;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight:900;
+	background-color:#F2F6FB;
+	border-bottom: 1px solid #D0DBE7;
+	margin:0;
+	padding:3px;
+	 }
+#conf{
+		color: #194F95;
+		font-weight:900;
+			}
+#oldpwd,#newpwd,#confpwd{
+    height:20px;
+	border-color:#0CF;
+	border-width:1px;
+	}
+#old,#new,#chc
+{
+	font-size:14px;
+	color:#194F95;
+	border-bottom:1px  dotted;
+	padding:3px;
+	padding-left:232px;
+}
+#new,#chc,#conf{
+	  position:relative;
+	}
+#new{
+	top:4px;
+}
+#chc{
+	top:4px;
+}
+#confpwd{
+	margin-left:16px;}
+#conf{
+	margin-left:360px;
+	top:4px;}
